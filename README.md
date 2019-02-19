@@ -1,5 +1,5 @@
-# TWD Group Project
-This is a TWD group project.
+# SSD Group Project Starter
+Starter project files for the final group project for the SSD Front-End Web Design course.
 
 ## Project Installation, Building and Submission Instructions
 
