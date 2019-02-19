@@ -3,9 +3,7 @@ Starter project files for the final group project for the SSD Front-End Web Desi
 
 ## Project Installation and Building Instructions
 
-**IMPORTANT:** If you intend to use these starter files as is, then please follow both the install and the submission instructions fully. Failure to do so will result in development errors, build errors, project submission errors and loss of marks for not following instructions.
-
-Don't be a cowboy coder. Read and follow the below instructions.
+**IMPORTANT:** If you intend to use these starter files as is, then please follow both the install and the submission instructions fully. Failure to do so will result in development errors and build errors.
 
 ## Install Instructions
 
